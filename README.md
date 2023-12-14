@@ -11,6 +11,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gb88&show_icons=true&locale=en" alt="gb88" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gb88&show_icons=true&locale=en" alt="gb88" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gb88&" alt="gb88" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gb88&" alt="gb88" /></p>
