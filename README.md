@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giovanni Bonomini</h1>
+<h1 align="center">Hi 👋, I'm gb88</h1>
 <h3 align="center">Embedded System Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gb88&label=Profile%20views&color=0e75b6&style=flat" alt="gb88" /> </p>
